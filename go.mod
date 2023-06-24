@@ -1,9 +1,9 @@
-module gorm.io/driver/sqlite
+module github.com.go-gosh/wxsqlite3
 
-go 1.20
+go 1.17
 
 require (
-	github.com/mattn/go-sqlite3 v1.14.17
+	github.com/Jathon-yang/go-wxsqlite3 v1.0.0
 	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
