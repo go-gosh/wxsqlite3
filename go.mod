@@ -1,4 +1,4 @@
-module github.com.go-gosh/wxsqlite3
+module github.com/go-gosh/wxsqlite3
 
 go 1.17
 
