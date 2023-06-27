@@ -3,7 +3,7 @@ module github.com/go-gosh/wxsqlite3
 go 1.17
 
 require (
-	github.com/Jathon-yang/go-wxsqlite3 v1.0.0
+	github.com/go-gosh/go-wxsqlite3 v0.0.0-20230627124050-590ac176df32
 	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 

@@ -1,5 +1,5 @@
-github.com/Jathon-yang/go-wxsqlite3 v1.0.0 h1:Cnzkq15TpfdNVf5u2JmkZGFDvqZ/66JhufihaAG1qTk=
-github.com/Jathon-yang/go-wxsqlite3 v1.0.0/go.mod h1:Vwiq8QrSoHUz/hCHxkSCJPu1fUfR4le6bqk+s7DSCh4=
+github.com/go-gosh/go-wxsqlite3 v0.0.0-20230627124050-590ac176df32 h1:4394ZTiJD5dCiGSihI03XnoV2yru1nPzhjgz6rBL89Q=
+github.com/go-gosh/go-wxsqlite3 v0.0.0-20230627124050-590ac176df32/go.mod h1:+JQtI+1chJCqov6wiyIaPdnZqKdbRAvz/l6o60YVC5A=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
 github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=
